@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "2a1ae982-164c-40f5-a1de-39bfb3ea624e",
+    "appKeys": {},
+    "longName": "hellowFace",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "hellowFace",
+    "companyName": "pantelisx@gmail.com",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
